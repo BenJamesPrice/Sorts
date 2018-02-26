@@ -21,11 +21,10 @@ class BubbleSort {
     }
 
     public int[] getArray() {
-        return null;
+        return array;
     }
 
-    public int[] sortArray() {
-        return null;
+    public void sortArray() {
     }
 
 }
